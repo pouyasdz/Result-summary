@@ -1,7 +1,7 @@
 # Frontend Mentor - Results summary component
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
-
+[Live Preview](https://pouyasdz.github.io/Result-summary/)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
