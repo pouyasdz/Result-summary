@@ -1,15 +1,29 @@
-/* tablet */
-@media only screen and (min-width: 375px) {
-}
-
 /* laptop */
 @media only screen and (min-width: 800px) {
-    .card {
-        width: 384px !important;
-        height: 522px !important;
-    }
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  main {
+    flex-direction: row !important;
+    width: 50% !important;
+    height: 50% !important;
+    align-items: center !important;
+    box-shadow: 0 5px 25px 5px #e6e6e6;
+    border-radius: 20px;
+    gap: 0 !important;
+  }
+  main .top {
+    height: 100% !important;
+    border-radius: 25px !important;
+    width: 50% !important;
+  }
+  main .summary {
+    width: 50% !important;
+    height: 100% !important;
+    padding: 5%;
+  }
 }
 
 /* desktop */
-@media only screen and (min-width: 1440px) {
-}
